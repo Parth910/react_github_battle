@@ -6,9 +6,9 @@ class Home extends Component {
 	render() {
 		return (
 			<div className='home-container'>
-				<h1>Github Battle: Battle your friends... and stuff.</h1>
-
-
+				<i class="fab fa-github"></i>
+				<h1>Github Battle</h1>
+				<h2>Battle with your friends and Enjoy</h2>
 				<Link className='button' to='/battle'>
 					Battle
 				</Link>
