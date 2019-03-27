@@ -1,1 +1,1 @@
-# react_github_battle
+# react-github-battle
