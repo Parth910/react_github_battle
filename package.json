@@ -23,7 +23,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.17.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "node": "^11.12.0",
     "query-string": "^5.1.0",
     "react": "^16.1.1",
